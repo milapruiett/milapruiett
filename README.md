@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milapruiett
-- 👀 I’m interested in ecology, plant biology, and forestry
-- 🌱 I’m currently working on plant herbivore interactions
+- 👀 I’m interested in ecology and evolution
+- 🌱 I’m currently working on plant herbivore interactions 
 - 📫 How to reach me ameliapruiett@lclark.edu
 
 <!---
